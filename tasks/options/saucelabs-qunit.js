@@ -147,7 +147,7 @@
                 tags: ["winjs"],
                 onTestComplete: onTestComplete
             }
-        }/*,
+        },
         allWithExtendedDuration: {
             options: {
                 urls: testUrls.allWithExtendedDuration,
@@ -160,6 +160,6 @@
                 tags: ["winjs"],
                 onTestComplete: onTestComplete
             }
-        }*/
+        }
     };
 })();
