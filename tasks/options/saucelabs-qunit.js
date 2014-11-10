@@ -125,6 +125,7 @@
         }
         return info;
     }
+
     var i = 1;
     browsers.forEach(function (browser) {
         var name = browser.platform + " / " + browser.browserName + " " + browser.version;
